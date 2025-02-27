@@ -51,5 +51,3 @@ mvn spring-boot:run
 ### 5. Testing API
 Use Postman or curl to test API endpoints.
 
-### 6. License
-This project is licensed under the MIT License.
