@@ -20,7 +20,7 @@ This project is a Spring Boot application that integrates with MySQL to provide 
 ## Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone <repository-url>
+git clone git@github.com:osachdev80/RestAPI.git
 cd <project-folder>
 ```
 
